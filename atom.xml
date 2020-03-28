@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>山下桜的Blog</title>
   <icon>https://blog.sakuraebi.xyz/icon.png</icon>
-  <subtitle>Happy Sugar Life</subtitle>
+  <subtitle>山下桜的Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.sakuraebi.xyz/"/>
